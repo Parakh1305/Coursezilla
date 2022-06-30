@@ -160,7 +160,7 @@ header .container .col-md-7 p {
 .cover {
   width: 100%;
   height: 55vmin;
-  background: url("../image/enroll.jpg");
+  background: url("enroll.jpg");
   background-position: -24rem -19rem;
   background-size: 150%;
   position: relative;
