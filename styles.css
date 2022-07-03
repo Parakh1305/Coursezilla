@@ -25,6 +25,11 @@ header a {
   color: whitesmoke;
 }
 
+#sign-in {
+  border-radius: 12px;
+  color: ;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
